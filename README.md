@@ -61,18 +61,18 @@
 - [JWT Handbook](https://www.freecodecamp.org/news/the-json-web-token-handbook-learn-to-use-jwts-for-web-authentication/) – JWT for web authentication  
 
 
-##  Roadmaps & Learning Paths
+###  Roadmaps & Learning Paths
 - [Smoljames Roadmap](https://www.roadmap.smoljames.com/) – Web dev roadmap  
 - [Roadmap.sh Frontend](https://roadmap.sh/frontend) – Popular frontend roadmap  
 - [LeanyLabs Roadmap (Notion)](https://leanylabs.notion.site/430bf76efc4a46a580c0c6d48c5b3918?v=26b78652b15b4b7cb3928920612d1963) – Detailed learning roadmap  
 - [Backend Engineering (Coggle)](https://coggle.it/diagram/ZtMDf8rvLIwlbc-0/t/backend-engineering/44ac2c05e0c7fcdd9920723c49ec128e5a65bcc430a145638eb01f5c64a884a1) – Backend roadmap  
 
  
-##  Career & Productivity
+###  Career & Productivity
 - [AI Cover Letter Tool](https://www.ai-ltr.smoljames.com/#resume) – Generate cover letters
 - [Lydia Hallie’s JS Questions](https://github.com/lydiahallie/javascript-questions/blob/master/README.md) – JS technical questions   
 
 
-##  Projects / Examples
+###  Projects / Examples
 - [Goodreads Project (GitHub)](https://github.com/matea-nikolac/goodreads-project?tab=readme-ov-file) – Goodreads clone
 - [Linear](https://linear.app/) – Project & task management tool  
