@@ -27,7 +27,7 @@
 - [Responsively App](https://responsively.app/) – Responsive testing tool  
 
 
-##  Frontend Patterns & Project Ideas
+###  Frontend Patterns & Project Ideas
 - [Frontend Projects](https://frontendprojects.netlify.app/) – Example projects  
 - [Codecrafters Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) – Build complex projects from scratch  
 - [Project-Based Learning](https://github.com/practical-tutorials/project-based-learning#lua) – Curated project ideas  
